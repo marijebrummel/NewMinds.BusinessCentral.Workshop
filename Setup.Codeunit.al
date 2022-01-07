@@ -11,4 +11,5 @@ codeunit 50101 "PTE Setup"
 
     var
         Setup: Record "PTE Setup";
+        Salespst: Codeunit "Sales Post Invoice";
 }

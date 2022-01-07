@@ -1,0 +1,26 @@
+[
+  {
+    "debuggingContext": "55ced3e7-26ac-4d93-b997-43a7e4be0dd7",
+    "snapshotContext": {
+      "debugConfig": {
+        "type": "al",
+        "request": "snapshotInitialize",
+        "name": "snapshotInitialize: Microsoft production cloud",
+        "configuration": {
+          "port": 7083,
+          "tenant": "f54b8e5d-8461-4789-a712-bbd27f2be684",
+          "name": "snapshotInitialize: Microsoft production cloud",
+          "request": "snapshotInitialize",
+          "environmentType": "Sandbox",
+          "environmentName": "newminds"
+        },
+        "sessionId": -1
+      },
+      "workspacePath": "c:\\Users\\marij\\NewMinds.BusinessCentral.Workshop",
+      "createdTime": "2022-01-07T13:43:48.000Z",
+      "affinityCookie": "bFPLVQxx",
+      "status": 4,
+      "attachKind": 2
+    }
+  }
+]
